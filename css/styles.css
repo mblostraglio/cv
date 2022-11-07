@@ -1,0 +1,24 @@
+body {
+  background-color: #B9E0FF;
+}
+
+hr {
+  background-color: #B9E0FF;
+  border-color: grey;
+  border-style: dotted none none none;
+   width: 5%;
+   border-width: 15px;
+   opacity: 40%;
+}
+h1 {
+  color: #6C4AB6;
+}
+
+h3 {
+  color: #6C4AB6;
+  text-decoration-line: underline;
+  text-decoration-color: #6C4AB6;
+  text-decoration-thickness: 2px;
+}
+body {font-family: Arial
+}
